@@ -1,6 +1,6 @@
 import pygame
 import random
-
+#supercool gaem#
 # Initialize pygame
 pygame.init()
 
